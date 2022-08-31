@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Montserrat:wght@400;700&family=Square+Peg&display=swap');
 :root {
-  --primary-dark: #B6D0E2;
+  --primary-red: rgb(252 165 165);;
   --primary-green: #008000;
 }
 
 body {
-  background-color: var(--primary-dark);
+  background-color: var(--primary-red);
   color: var(--primary-green);
   font-family: 'DynaPuff', cursive;
 }
